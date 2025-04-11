@@ -24,8 +24,6 @@ Measurements and 3D models related to Haptic Harpsichord project
   - [Jack Fabrication](#jack-fabrication)
     - [Laser cutting](#laser-cutting)
     - [CNC](#cnc)
-  - [Paper Structure](#paper-structure)
-  - [Paper Ideas](#paper-ideas)
   - [Model](#model)
 
 
@@ -190,27 +188,7 @@ After cutting and sanding back a charred edge, the 3-Key Jacks were `~11.5mm` wh
 
 ### CNC
 
-## Paper Structure
-
-- Intro: aims and constraints
-  - track jacks of a harpsichord for interacting with digital instrument
-- Current work done and extraction from those
-  - TODO: Find example papers
-      - inspiration taken
-      - concepts developed
-- What happened / what was done
-  - algorithm
-  - calibration
-- Measure success of  what was done
-- What happens next?
-
-
-## Paper Ideas
-
-- Jack tracking of harpsichord
-- effects of mechanical noise
-- player  interaction experience with and without haptics
-
+CNC jacks are still an going area of experimentation.
 
 ## Model
 
