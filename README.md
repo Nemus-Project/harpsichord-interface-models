@@ -1,8 +1,8 @@
-# Harpsichord Model Data
+# NEMUS Harpsichord Interface Model Data
 
 Measurements and 3D models related to Haptic Harpsichord project
 
-- [Harpsichord Model Data](#harpsichord-model-data)
+- [NEMUS Harpsichord Interface Model Data](#nemus-harpsichord-interface-model-data)
   - [3-Key Model Keyboard](#3-key-model-keyboard)
     - [Jack Info](#jack-info)
       - [Dimensions](#dimensions)
